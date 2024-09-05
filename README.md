@@ -1,5 +1,5 @@
 # Weather-App
-## About my first project on GitHub
+## About my second project on GitHub
 This is a local webpage that uses the OpenWeatherMap API to get data from the website and displays it
 The JavaScript code is a basic weather app that:
 
